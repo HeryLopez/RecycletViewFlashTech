@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Recycler View Flash Tech Example</string>
+    <string name="app_name">My Team</string>
     <string name="team_label">Team %d</string>
     <string name="no_data">No Data</string>
     <string name="delete_person">Delete Person</string>
